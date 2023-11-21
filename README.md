@@ -50,6 +50,15 @@ Demo link:https://inpaintweb.lxfater.com/
   <img src="https://contrib.rocks/image?repo=lxfater/inpaint-web" />
 </a>
 
+## Deploy
+Deploy Your Own Inpaint-web (Free)
+
+If you only need to deploy a website for your own use to experience, without the need for customization, you can simply click the button below and follow the instructions to quickly set it up. This also supports custom domain names.
+
+如果你只需要部署一个你自己用的网站进行体验，而不需要定制修改，那么你可以直接点击下面的按钮，然后按照提示操作，就可以快速搭建起来，同时还支持自定义域名。
+
+[![Deploy with 4EVERLAND](https://4ever-web.4everland.store/img/deploy.svg)](https://dashboard.4everland.org/hosting/new?type=clone-flow&s=https%3A%2F%2Fgithub.com%2Flxfater%2Finpaint-web)
+
 ## Acknowledgements
 
 Frontend code are modified from [cleanup.pictures](https://github.com/initml/cleanup.pictures), You can experience their
